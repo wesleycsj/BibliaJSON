@@ -9,9 +9,9 @@ Não sou o autor original do trabalho de ter organizado essa bíblia, você pode
 
 Cada abreviação corresponde a:
 
-Nova Versão Internacional (NVI)
-Almeida Corrigida e Fiel (ACF)
-Almeida Revisada Imprensa Bíblica (AA)
+  ### Nova Versão Internacional (NVI)
+  ### Almeida Corrigida e Fiel (ACF)
+  ### Almeida Revisada Imprensa Bíblica (AA)
 
 ## O projeto original também disponibiliza a bíblia em formato JSON, qual a diferença para este repositório?
 Este repositório disponibiliza cada livro em um arquivo separado nas três traduções disponíveis em pastas separadas, tornado mais leve o carregamento e fácil a indexação por parte da aplicação.
