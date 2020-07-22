@@ -1,20 +1,19 @@
-# BibliaJSON
-Livros da Bíblia em arquivo .json
-
-Não sou o autor original do trabalho de ter organizado essa bíblia.Apenas tive a necessidade de separar em arquivos menores por culpa de o original ser um arquivo bruto um pouco pesado de se carregar, você pode conferir o projeto original do Thiago Bodruk no link abaixo.
-
-[Biblia: XML + SQL + JSON](https://github.com/thiagobodruk/biblia)
+# BibliaJSON (PT-BR)
+Livros da Bíblia em formato JSON
 
 ## Descrição
 
-Cada abreviação corresponde a
+Não sou o autor original do trabalho de ter organizado essa bíblia, você pode conferir o projeto original do Thiago Bodruk no link abaixo.
+
+[Biblia: XML + SQL + JSON](https://github.com/thiagobodruk/biblia)
+
+Cada abreviação corresponde a:
 
 Nova Versão Internacional (NVI)
 Almeida Corrigida e Fiel (ACF)
 Almeida Revisada Imprensa Bíblica (AA)
 
---
-Você pode me contactar por:
+## O projeto original também disponibiliza a bíblia em formato JSON, qual a diferença para este repositório?
+Este repositório disponibiliza cada livro em um arquivo separado nas três traduções disponíveis em pastas separadas, tornado mais leve o carregamento e fácil a indexaçao por parte da aplicação.
 
-[@WesleyCSJ](http://www.twitter.com/wesleycsj)
-E-mail: wesleyjr10@gmail.com
+Aviso: A conversão foi automatizada e pode estar desatualizada com o repositório original, os arquivos originais continham alguns erros pois eram oriundos de um crawler e divergiam na padronização do formato no momento que convertidos, então é possível que existam erros em algum ou vários arquivos deste repositório.
