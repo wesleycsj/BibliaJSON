@@ -1,4 +1,4 @@
-# BibliaJSON (PT-BR)
+# BibliaJSON (PT-BR) Repositório Depreciado!
 Livros da Bíblia em formato JSON
 
 ## Descrição
